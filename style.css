@@ -9,7 +9,7 @@ h1 {
 }
 
 .banner{
-    background-image: url(https://www.karunya.edu/sites/default/files/img/site/karunya-text.png.pagespeed.ce.Jnp13f310J.png);
+    background-image: url('banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     border:1px solid white;
