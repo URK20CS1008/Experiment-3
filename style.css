@@ -34,6 +34,7 @@ h1 {
     background-repeat: no-repeat;
     width:33%;
     height:300px;
+    background-size: cover;
 }
 .image2{
     float: left;
@@ -42,6 +43,7 @@ h1 {
     width:33%;
     height:300px;
     position: relative;
+    background-size: cover;
 }
 .image3{
     float: left;
@@ -49,6 +51,7 @@ h1 {
     background-repeat: no-repeat;
     width:33%;
     height:300px;
+    background-size: cover;
 }
 .image1 h2{
     opacity: 0.5;
@@ -90,8 +93,10 @@ h1 {
     background-image: url('campus.jpg');
     background-repeat: no-repeat;
     width:50%;
-    height:220px;
+    height:255px;
+    background-size: cover;
 }
+
 
 .form {
     padding: 20px;
@@ -145,12 +150,13 @@ input[type=password]:focus{
     outline: 1px solid blue;
 }
 .image5{
-    width: 50%;
     float: left;
     background-image: url('agri.jpg');
     background-repeat: no-repeat;
+    width: 50%;
     height:300px;
     position: relative;
+    background-size: cover;
 }
 
 .drone{
