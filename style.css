@@ -30,7 +30,7 @@ h1 {
 
 .image1{
     float: left;
-    background-image: url(https://unsplash.com/s/photos/computer-build);
+    background-image: url('cse.jpg');
     background-repeat: no-repeat;
     width:811px;
     height:300px;
